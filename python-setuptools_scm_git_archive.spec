@@ -8,7 +8,7 @@ Summary:	setuptools_scm plugin for git archives
 Summary(pl.UTF-8):	Wtyczka setuptools_scm do archiwów gita
 Name:		python-setuptools_scm_git_archive
 Version:	1.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/setuptools_scm_git_archive/
